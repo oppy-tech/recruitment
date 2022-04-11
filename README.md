@@ -26,7 +26,7 @@ Our team collaborates via meetings and PR's as we're a remote shop, the goal her
 
 The questions and conversation are designed to be fluid, but I'd expect some of them to fall in line with some of your favourite pieces of code, some of the challenges you've encountered, improvement opportunities, lessons learned, and things within that nature. 
 
-MS Teams web has the ability to share your screen, you may also circulate your repo link in the chat if you feel that might be beneficial when talking through some of the tech aspects.
+We provide the ability to share your screen, you may also circulate your repo link in the chat if you feel that might be beneficial when talking through some of the tech aspects.
 
 ### Resumé Review
 This interview focuses on your background, the places you’ve worked, the teams you’ve been part of, and the impact you’ve had. We’re interested in learning the story of how you arrived at where you are in your career and understanding the key experiences and opportunities that have shaped you in the process.
