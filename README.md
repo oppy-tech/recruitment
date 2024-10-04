@@ -37,14 +37,14 @@ This interview focuses on your background, the places you’ve worked, the teams
 Our goal is to understand the depth and breadth of experiences you’ve had as an engineer. We’ll look to understand the types of roles you’ve led, the teams you've worked with and your experience with an Agile organization, and Product Owners/Managers.
 
 ### Closing
-This interview is your time to ask any final questions you might have about techmesh and to provide feedback about your experiences during the day.
+This interview is your time to ask any final questions you might have about Oppy and to provide feedback about your experiences during the day.
 
 ## What you should expect at interviews
-A brief introduction to techmesh.
+A brief introduction to Oppy.
 
-Each interview will last approximately 45 - 60 minutes and many will give you a chance to ask questions about techmesh or the role. These interviews will cover a number of technical and cultural assessments as described above.
+Each interview will last approximately 45 - 60 minutes and many will give you a chance to ask questions about Oppy or the role. These interviews will cover a number of technical and cultural assessments as described above.
 
-A 30-minute chat with a techmesh engineer, this is not a part of the interview process and is not included in the evaluation. It provides you an opportunity to learn more about techmesh by asking questions about our products, engineering culture, what it’s like to work at techmesh, etc.
+A 30-minute chat with a Oppy engineer, this is not a part of the interview process and is not included in the evaluation. It provides you an opportunity to learn more about Oppy by asking questions about our products, engineering culture, what it’s like to work at Oppy, etc.
 
 ### During the technical review/project presentation.
 We’re interested in how you approach the problem and any technology challenges, limitations, or benefits that you discovered whilst building your solution. 
