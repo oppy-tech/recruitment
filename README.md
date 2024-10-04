@@ -16,7 +16,7 @@ What we’re looking for during the interviews
 ### Technical project
 Part of our interview process requires a technical conversation to understand your problem solving and development mindset, the most efficient way of doing this is to have some code already available that you are comfortable talking through and also has some technical complexity that could be discussed with other engineers. If you don't have any projects readily available to speak to and walk through, please feel free to utilize the attached project outline. This should not be time intensive, we need to be able to have a conversation, not deploy to production. (smile)
 
-* https://github.com/techmesh-dev/recruitment
+* https://github.com/oppy-tech/recruitment
 
 ## Interviews
 ### Project Presentation
